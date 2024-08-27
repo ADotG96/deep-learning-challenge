@@ -20,6 +20,7 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * IS_SUCCESSFUL—Was the money used effectively
 
 __Load Model__
+
 Run the following code in a colab notebook:
 
 `loaded_model = tf.keras.models.load_model('AlphabetSoupCharity_Optimization.h5')`
